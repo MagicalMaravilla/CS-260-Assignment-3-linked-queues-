@@ -6,7 +6,7 @@ A front pointer that set up queue pointer
 
 A pointer checking the rear side of the queue
 
-We have a deconstructor and deconstructor
+We have a constructor and deconstructor
 
 and we have a value
 
